@@ -1,12 +1,12 @@
+ESERCIZI IN ORDINE DI DIFFICOLTÀ CRESCENTE
 
 
+1) chiedere all'utente un numero, verificare se questo è pari/dispari, ma senza usare l'operatore %
 
-1)chiedere all'utente un numero, verificare se questo è pari/dispari, ma senza usare l'operatore %
+2) finchè l'utente non digita 'exit', chiedere un numero e stampare quando si esce il massimo inserito tra tutti (senza impostare inizialmente un valore molto basso!!! es. massimo = -1000)
 
-2)finchè l'utente non digita 'exit', chiedere un numero e stampare quando si esce il massimo inserito tra tutti (senza impostare inizialmente un valore molto basso!!! es. massimo = -1000)
+3) chiedere all'utente un numero, stampare tutti i suoi divisori
 
-3)chiedere all'utente un numero, stampare tutti i suoi divisori
-
-)chiedere all'utente un numero, verificare se questo è primo
-
-)chiedere all'utente un numero, stampare la somma delle sue cifre
+4) chiedere all'utente un numero, verificare se questo è primo
+ 
+5) chiedere all'utente un numero, stampare la somma delle sue cifre
