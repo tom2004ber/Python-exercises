@@ -5,7 +5,7 @@ ESERCIZI IN ORDINE DI DIFFICOLTÀ CRESCENTE
 
 2) finchè l'utente non digita 'exit', chiedere un numero e stampare quando si esce il massimo inserito tra tutti (senza impostare inizialmente un valore molto basso!!! es. massimo = -1000)
 
-3) chiedere all'utente un numero, stampare tutti i suoi divisori, poi aggiungerli in una lista (aggiungerli alla fine), quindi stapare la lista e il suo massimo
+3) chiedere all'utente un numero, stampare tutti i suoi divisori, poi aggiungerli in una lista (aggiungerli alla fine), quindi stampare la lista e il suo massimo
 
 4) chiedere all'utente un numero, verificare se questo è primo
  
