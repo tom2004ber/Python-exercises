@@ -9,4 +9,4 @@ ESERCIZI IN ORDINE DI DIFFICOLTÀ CRESCENTE
 
 4) chiedere all'utente un numero, verificare se questo è primo
  
-5) chiedere all'utente un numero, stampare la somma delle sue cifre
+5) chiedere all'utente un numero, stampare la somma delle sue cifre, quindi aggiungerle man mano dentro una lista(quando faremo print di lista l'ordine delle cifre dovrà essere corretto!)
